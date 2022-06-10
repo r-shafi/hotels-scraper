@@ -1,6 +1,8 @@
 const pptr = require('puppeteer');
 
 async function categoryScraper(url) {
+  console.log('STARTED CATEGORY SCRAPER');
+
   const browser = await pptr.launch({});
   const page = await browser.newPage();
 
@@ -21,6 +23,8 @@ async function categoryScraper(url) {
   );
 
   browser.close();
+
+  console.log('FINISHED CATEGORY SCRAPING');
 
   return categories;
 }
