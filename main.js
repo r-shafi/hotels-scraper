@@ -1,31 +1,12 @@
 const pptr = require('puppeteer');
 const { categoryScraper } = require('./utils/categories');
+const { hotelScraper } = require('./utils/hotels');
 
 async function main() {
-  // const browser = await pptr.launch({});
-  // const page = await browser.newPage();
-
-  // await page.goto('https://en.halalbooking.com/');
-
   const categories = await categoryScraper('https://en.halalbooking.com/');
+  const h = await hotelScraper(categories[0].link);
 
-  // const categories = await page.evaluate(() =>
-  //   Array.from(
-  //     document.querySelectorAll(
-  //       '.card.card_xs.card_link.card_outer.travel-ideas--i'
-  //     ),
-  //     (category) => ({
-  //       link: category.href,
-  //       title: category.innerText,
-  //       image:
-  //         category.querySelector('img').attributes['data-srcset'].value || null,
-  //     })
-  //   )
-  // );
-
-  console.log(categories);
-
-  // await browser.close();
+  console.log(h);
 }
 
 main();
