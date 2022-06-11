@@ -1,0 +1,4411 @@
+{
+  "The affordable Maldives": [
+    {
+      "title": "Plumeria Maldives",
+      "image": "https://cdn.halalstatic.com/2019/01/29/05/21/18/9bca7b84-d9b1-426b-91be-739dfb19e3a1/48557_1iYnfSLUxecHhYNdkfMivQ.jpg?fit=crop&height=500&width=600",
+      "rating": "8.7\nVery good",
+      "location": "Thinadhoo, Vaavu Atoll, Maldives",
+      "price": "BDT 103,922",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear compulsory)",
+        "Beach (mixed-gender, modest swimwear compulsory)"
+      ]
+    },
+    {
+      "title": "Fiyavalhu Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.6\nSuperb",
+      "location": "Mandhoo, Maldives",
+      "price": "BDT 108,189",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Samann Host",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.2\nSuperb",
+      "location": "Hulhumalé, Maldives",
+      "price": "BDT 81,393",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Hondaafushi Island Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.9\nGood",
+      "location": "Kulhudhuffushi, Maldives",
+      "price": "BDT 134,771",
+      "price_type": "total",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Season Paradise",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.3\nVery good",
+      "location": "Thulusdhoo, Kaafu Atoll (Malé), Maldives",
+      "price": "BDT 109,392",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Hot tub/jacuzzi, Spa treatment room(s), Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)",
+        "Secluded hot tub/jacuzzi (in some rooms)"
+      ]
+    },
+    {
+      "title": "H78 Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.3\nVery good",
+      "location": "Hulhumalé, Maldives",
+      "price": "BDT 85,624",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Triton Beach Hotel & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.2\nVery good",
+      "location": "Maafushi, Maldives",
+      "price": "BDT 82,931",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Nazaki Residences Beach Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Gan, Maldives",
+      "price": "BDT 90,529",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Keyodhoo, Vaavu Atoll, Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "Hevana Maldives",
+      "location": "BDT 70,323\ntotal\nBreakfast incl.\nFree cancellation by 23 Sep",
+      "price": "BDT 70,323",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Sun Island Resort & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "91%\nExternal score",
+      "location": "Nalaguraidhoo, Maldives",
+      "price": "BDT 117,376",
+      "price_type": "total",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Crown Beach Hotel Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "85%\nExternal score",
+      "location": "Dhiffushi, Kaafu Atoll (Malé), Maldives",
+      "price": "BDT 69,672",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (mixed-gender, modest swimwear compulsory)"
+      ]
+    },
+    {
+      "title": "Dhiffushi, Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "Sky Beach Maldives - Dhiffushi",
+      "location": "BDT 80,221\ntotal\nBreakfast incl.\nAlso bookable: Half BoardFull Board\nFree cancellation by 25 Sep",
+      "price": "BDT 80,221",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor-outdoor connected pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Felidhoo, Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "Alimas Holiday Retreat",
+      "location": "BDT 69,672\ntotal\nBreakfast incl.\nAlso bookable: Half BoardFull Board\nFree cancellation by 29 Sep",
+      "price": "BDT 69,672",
+      "price_type": "total",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Dhonkamana Stay",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "99%\nExternal score",
+      "location": "Thoddoo, Maldives",
+      "price": "BDT 78,137",
+      "price_type": "total",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Samann Grand",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Malé, Maldives",
+      "price": "BDT 113,950",
+      "price_type": "total",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "The Somerset Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Malé, Maldives",
+      "price": "BDT 120,373",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Seasalter Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Hulhumalé, Maldives",
+      "price": "BDT 109,226",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Holiday Home Kelaa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "100%\nExternal score",
+      "location": "Kelaa, Maldives",
+      "price": "BDT 82,001",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Holikan Beach Maafushi",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "60%\nExternal score",
+      "location": "Maafushi, Maldives",
+      "price": "BDT 72,755",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Paralian Hulhumale'",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Hulhumalé, Maldives",
+      "price": "BDT 83,950",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    }
+  ],
+  "Resorts with free cancellation": [
+    {
+      "title": "Adenya Hotel & Resort",
+      "image": "https://cdn.halalstatic.com/2018/11/01/16/16/09/322b381e-f20e-4e1e-b2b8-9d1c3147bc1a/35506_IFGohZpMRBem9ish304SrQ.jpg?fit=crop&height=500&width=600",
+      "rating": "8.4\nVery good",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 250,763",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Altis Resort Hotel & Spa",
+      "image": "https://cdn.halalstatic.com/2019/07/10/16/50/51/4cb026b4-48b4-47a7-a533-9c182bee46d3/85661_-i-78UkXy1zn3tzgoBU-Yg.jpg?fit=crop&height=500&width=600",
+      "rating": "6.9",
+      "location": "Belek, Antalya, Turkey",
+      "price": "BDT 103,569",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Sunbathing area (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "The Oba Hotel",
+      "image": "https://cdn.halalstatic.com/2021/02/02/10/02/57/9ddeba3b-10e2-4148-9305-2af825977f58/68150_US2RM8qv1ml098nvdzk-ZQ.jpg?fit=crop&height=500&width=600",
+      "rating": "8.8\nVery good",
+      "location": "Torba, Bodrum, Turkey",
+      "price": "BDT 485,600",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Cabir Deluxe Hotel Sapanca",
+      "image": "https://cdn.halalstatic.com/2021/06/29/08/13/27/a32c0ff1-8fd1-4fe9-bc1b-49a5466803f2/99060_bORvDKAJ8_JiFTFml2AGZA.jpg?fit=crop&height=500&width=600",
+      "rating": "9.1\nSuperb",
+      "location": "Sapanca, Turkey",
+      "price": "BDT 78,255",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Korel Thermal Resort & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Afyonkarahisar, Turkey",
+      "price": "BDT 68,024",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Hotel Mavi Deniz",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.9\nGood",
+      "location": "Turunc, Marmaris, Turkey",
+      "price": "BDT 85,709",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Alya Sierra Bodrum Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.1\nVery good",
+      "location": "Torba, Bodrum, Turkey",
+      "price": "BDT 431,974",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Secluded outdoor pool (in all villas)"
+      ]
+    },
+    {
+      "title": "Rizom Tatil Koyu",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.6\nGood",
+      "location": "Yalova, Turkey",
+      "price": "BDT 76,186",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Grand Akca Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.2\nVery good",
+      "location": "Gazipasa, Antalya, Turkey",
+      "price": "BDT 120,051",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Sauna (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Hedef Beyt Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.6\nGood",
+      "location": "Ephesus - Selcuk, Izmir, Turkey",
+      "price": "BDT 112,981",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Kevser Inn Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.1\nGood",
+      "location": "Fethiye, Turkey",
+      "price": "BDT 61,710",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Inanc Hotel Bodrum",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.0\nGood",
+      "location": "Gumbet, Bodrum, Turkey",
+      "price": "BDT 69,329",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Katranci Park Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.6\nVery good",
+      "location": "Fethiye, Turkey",
+      "price": "BDT 84,185",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Beach (mixed-gender, modest swimwear compulsory)",
+        "Outdoor pool (mixed-gender, modest swimwear compulsory)"
+      ]
+    },
+    {
+      "title": "Tugra Suit Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.3\nGood",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 91,766",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Sedir Park",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.0\nSuperb",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 83,423",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Beach (mixed-gender, modest swimwear mostly observed)"
+      ]
+    },
+    {
+      "title": "İlica Hotel Spa & Wellness Thermal Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.4\nVery good",
+      "location": "Cesme, Turkey",
+      "price": "BDT 274,290",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Hammam, Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Hare Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "6.8",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 48,378",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Beach (mixed-gender, modest swimwear compulsory)",
+        "Outdoor pool (mixed-gender, modest swimwear compulsory)"
+      ]
+    },
+    {
+      "title": "Algora Halal Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "6.9",
+      "location": "Konakli, Alanya, Turkey",
+      "price": "BDT 118,947",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Kumluca, Turkey",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "Rizom Beach Hotel Kumluca",
+      "location": "BDT 91,423\ntotal\nAll Inclusive\nFree cancellation by 15 Jun",
+      "price": "BDT 91,423",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Telmessos Neva",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Fethiye, Turkey",
+      "price": "BDT 71,995",
+      "price_type": "total",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear compulsory)"
+      ]
+    }
+  ],
+  "Best island hotels": [
+    {
+      "title": "Furaveri Maldives",
+      "image": "https://cdn.halalstatic.com/2021/10/27/17/48/14/3785ea99-4a17-422a-bfc8-f9e0d7aea338/27718_SFc-zAwSPPkYOZa7tSJWVA.jpg?fit=crop&height=500&width=600",
+      "rating": "8.9\nVery good",
+      "location": "Furaveri, Raa Atoll, Maldives",
+      "price": "BDT 76,086",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Marguery Exclusive Villas",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.5\nSuperb",
+      "location": "Rivière Noire, Mauritius",
+      "price": "BDT 15,935",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)",
+        "Secluded outdoor pool (in all rooms)"
+      ]
+    },
+    {
+      "title": "Plumeria Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Thinadhoo, Vaavu Atoll, Maldives",
+      "price": "BDT 18,604",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear compulsory)",
+        "Beach (mixed-gender, modest swimwear compulsory)"
+      ]
+    },
+    {
+      "title": "Baglioni Resort Maldives - The Leading Hotels of The World",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "10\nSuperb",
+      "location": "Maagau Island, Maldives",
+      "price": "BDT 76,835",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Paradise Island Resort & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.3\nSuperb",
+      "location": "Lankanfinolhu, Maldives",
+      "price": "BDT 57,579",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded sunbathing area (in some rooms)"
+      ]
+    },
+    {
+      "title": "Kihaa Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.2\nVery good",
+      "location": "Kihaadhuffaru, Maldives",
+      "price": "BDT 31,757",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free restaurant",
+        "Indoor pool (private-use, secluded)",
+        "Wellness & Spa (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "The Pavilions Phuket",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.3\nSuperb",
+      "location": "Phuket, Thailand",
+      "price": "BDT 11,122",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Ayada Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.3\nSuperb",
+      "location": "Maguhdhuvaa, Maldives",
+      "price": "BDT 57,300",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Katamaran Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.3\nSuperb",
+      "location": "Senggigi, Lombok, Indonesia",
+      "price": "BDT 11,721",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Hot tub/jacuzzi, Massage (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Senang Private Villa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.6\nSuperb",
+      "location": "Lombok, Indonesia",
+      "price": "BDT 11,508",
+      "price_type": "per night",
+      "features": ["Some halal food", "Alcohol-free room"]
+    },
+    {
+      "title": "Lily Beach Resort & Spa - All Inclusive",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.8\nSuperb",
+      "location": "Huvahendhoo, Maldives",
+      "price": "BDT 82,014",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Fiyavalhu Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.6\nSuperb",
+      "location": "Mandhoo, Maldives",
+      "price": "BDT 13,754",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Svarga Resort Lombok",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.8\nVery good",
+      "location": "Senggigi, Lombok, Indonesia",
+      "price": "BDT 8,541",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Fushifaru Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.7\nSuperb",
+      "location": "Hinnavaru, Maldives",
+      "price": "BDT 52,918",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Bandos Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.1\nSuperb",
+      "location": "Bandos Island, Maldives",
+      "price": "BDT 17,896",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Reethi Faru Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.1\nSuperb",
+      "location": "Filaidhoo, Raa Atoll, Maldives",
+      "price": "BDT 21,447",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Noku Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.4\nSuperb",
+      "location": "Kudafunafaru, Maldives",
+      "price": "BDT 61,967",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Meeru Island Resort & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.1\nSuperb",
+      "location": "Meerufenfushi, Maldives",
+      "price": "BDT 39,632",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Secluded sunbathing area (in some rooms)"
+      ]
+    },
+    {
+      "title": "Kurumba Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.2\nSuperb",
+      "location": "Vihamanafushi, Maldives",
+      "price": "BDT 93,445",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    }
+  ],
+  "Villas with private secluded pools": [
+    {
+      "title": "Furaveri Maldives",
+      "image": "https://cdn.halalstatic.com/2021/10/27/17/48/14/3785ea99-4a17-422a-bfc8-f9e0d7aea338/27718_SFc-zAwSPPkYOZa7tSJWVA.jpg?fit=crop&height=500&width=600",
+      "rating": "8.9\nVery good",
+      "location": "Furaveri, Raa Atoll, Maldives",
+      "price": "BDT 76,086",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Marguery Exclusive Villas",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.5\nSuperb",
+      "location": "Rivière Noire, Mauritius",
+      "price": "BDT 15,935",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)",
+        "Secluded outdoor pool (in all rooms)"
+      ]
+    },
+    {
+      "title": "Al Maaden Villa Hotel & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.1\nVery good",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 27,204",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Steam room, Hammam, Massage (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "FuramaXclusive Resort & Villas",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Ubud, Bali, Indonesia",
+      "price": "BDT 8,391",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Villa Alya Boutique Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Turunc, Marmaris, Turkey",
+      "price": "BDT 20,570",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Secluded outdoor pool (in all villas)"
+      ]
+    },
+    {
+      "title": "Paradise Island Resort & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.3\nSuperb",
+      "location": "Lankanfinolhu, Maldives",
+      "price": "BDT 57,579",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded sunbathing area (in some rooms)"
+      ]
+    },
+    {
+      "title": "Alya Piynar Villa Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.1\nVery good",
+      "location": "Turunc, Marmaris, Turkey",
+      "price": "BDT 10,883",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Secluded outdoor pool (in all villas)"
+      ]
+    },
+    {
+      "title": "Alya Sierra Bodrum Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.1\nVery good",
+      "location": "Torba, Bodrum, Turkey",
+      "price": "BDT 14,148",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Secluded outdoor pool (in all villas)"
+      ]
+    },
+    {
+      "title": "Kihaa Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.2\nVery good",
+      "location": "Kihaadhuffaru, Maldives",
+      "price": "BDT 31,757",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free restaurant",
+        "Indoor pool (private-use, secluded)",
+        "Wellness & Spa (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Ambong Pool Villas",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.5\nSuperb",
+      "location": "Langkawi, Malaysia",
+      "price": "BDT 52,303",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)",
+        "Secluded outdoor pool (in all rooms)"
+      ]
+    },
+    {
+      "title": "Bellapais Villa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.6\nSuperb",
+      "location": "Bellapais, Cyprus",
+      "price": "BDT 15,254",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Grand Lexis Port Dickson",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.8\nVery good",
+      "location": "Port Dickson, Malaysia",
+      "price": "BDT 14,159",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Sauna (ladies-only, secluded)",
+        "Secluded outdoor pool (in all rooms)"
+      ]
+    },
+    {
+      "title": "Villa Alison",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.5\nSuperb",
+      "location": "Kyrenia, Cyprus",
+      "price": "BDT 23,619",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "The Pavilions Phuket",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.3\nSuperb",
+      "location": "Phuket, Thailand",
+      "price": "BDT 11,122",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Villa Glamour",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.4\nSuperb",
+      "location": "Sarajevo, Bosnia and Herz.",
+      "price": "BDT 24,604",
+      "price_type": "per night",
+      "features": [
+        "Alcohol-free property",
+        "Indoor pool (private-use, secluded)",
+        "Wellness & Spa (private-use, secluded)",
+        "Sauna, Hot tub/jacuzzi, Fitness (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Kayu Raja Villa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.5\nVery good",
+      "location": "Kuta, Indonesia",
+      "price": "BDT 19,132",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free restaurant",
+        "Spa centre, Sauna, Hot tub/jacuzzi, Massage (private-use, secluded)",
+        "Secluded outdoor pool (in all rooms)"
+      ]
+    },
+    {
+      "title": "Ayada Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.3\nSuperb",
+      "location": "Maguhdhuvaa, Maldives",
+      "price": "BDT 57,300",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Villa Layla",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Għasri, Gozo, Malta",
+      "price": "BDT 26,572",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free property",
+        "Indoor-outdoor connected pool (private-use, secluded)",
+        "Hot tub/jacuzzi (private-use, secluded)"
+      ]
+    }
+  ],
+  "Hotels for Umrah": [
+    {
+      "title": "Millennium Makkah Al Naseem",
+      "image": "https://cdn.halalstatic.com/2021/08/11/11/28/10/d8f789c4-185d-4754-88fb-5c031c9f4bce/96709_SxebswDl-X7iZ0rMbVLw4A.jpg?fit=crop&height=500&width=600",
+      "rating": "7.6\nGood",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 6,467",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Sheraton Makkah Jabal Al Kaaba Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.1\nSuperb",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 9,805",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Le Meridien Towers Makkah",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.5\nGood",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 5,930",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Fairmont Makkah Clock Royal Tower",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.4\nSuperb",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 18,776",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Swissôtel Al Maqam Makkah",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "10\nSuperb",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 10,996",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Swissôtel Makkah",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.3\nSuperb",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 10,996",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Hilton Makkah Convention Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.2\nSuperb",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 9,715",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "DoubleTree by Hilton Makkah Jabal Omar",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "10\nSuperb",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 8,463",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Elaf Kinda Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.4\nVery good",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 9,983",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Park Inn by Radisson Makkah Aziziyah",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "74%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 5,364",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Four Points by Sheraton Makkah Al Naseem",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 4,769",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Jabal Omar Hyatt Regency Makkah",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 11,526",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "M Hotel Makkah by Millennium",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "70%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 4,469",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Park Inn by Radisson, Makkah Al Naseem",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "76%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 4,291",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "M Hotel Al Dana Makkah by Millennium",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 4,321",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "OYO 375 Deyar Alrawada Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "46%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 4,132",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Le Meridien Makkah",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "80%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 9,983",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Jabal Omar Marriott Hotel, Makkah",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 10,430",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Shaza Makkah",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 9,239",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Al Safwah Royale Orchid",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "68%\nExternal score",
+      "location": "Mecca, Saudi Arabia",
+      "price": "BDT 11,622",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    }
+  ],
+  "Ladies-only spas": [
+    {
+      "title": "Furaveri Maldives",
+      "image": "https://cdn.halalstatic.com/2021/10/27/17/48/14/3785ea99-4a17-422a-bfc8-f9e0d7aea338/27718_SFc-zAwSPPkYOZa7tSJWVA.jpg?fit=crop&height=500&width=600",
+      "rating": "8.9\nVery good",
+      "location": "Furaveri, Raa Atoll, Maldives",
+      "price": "BDT 76,086",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "Wome Deluxe",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 14,368",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Adenya Hotel & Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.4\nVery good",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 6,692",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Alanya, Antalya, Turkey",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "Wome Prime",
+      "location": "BDT 27,556\nper night\nAll Inclusive\nFree cancellation by 31 Aug",
+      "price": "BDT 27,556",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Altis Resort Hotel & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "6.9",
+      "location": "Belek, Antalya, Turkey",
+      "price": "BDT 12,461",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Sunbathing area (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Selge Beach Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.1\nVery good",
+      "location": "Manavgat, Antalya, Turkey",
+      "price": "BDT 17,714",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Sunbathing area (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "FuramaXclusive Resort & Villas",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Ubud, Bali, Indonesia",
+      "price": "BDT 8,391",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Wellness & Spa (private-use, secluded)",
+        "Secluded outdoor pool (in some rooms)"
+      ]
+    },
+    {
+      "title": "The Oba Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.8\nVery good",
+      "location": "Torba, Bodrum, Turkey",
+      "price": "BDT 33,776",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Cabir Deluxe Hotel Sapanca",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.1\nSuperb",
+      "location": "Sapanca, Turkey",
+      "price": "BDT 10,137",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Hotel Han Bjelasnica",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.0\nSuperb",
+      "location": "Bjelašnica, Sarajevo, Bosnia and Herz.",
+      "price": "BDT 6,274",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (private-use, secluded)",
+        "Spa centre, Sauna, Hot tub/jacuzzi, Wheelchair-accessible spa (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Korel Thermal Resort & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Afyonkarahisar, Turkey",
+      "price": "BDT 9,256",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Hotel Mavi Deniz",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.9\nGood",
+      "location": "Turunc, Marmaris, Turkey",
+      "price": "BDT 7,836",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Modern Saraylar Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.5\nGood",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 7,618",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Ottoman's Life Hotel Deluxe",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.0\nSuperb",
+      "location": "Fatih, Istanbul, Turkey",
+      "price": "BDT 10,850",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Rizom Tatil Koyu",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.6\nGood",
+      "location": "Yalova, Turkey",
+      "price": "BDT 6,094",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Hedef Beyt Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.6\nGood",
+      "location": "Ephesus - Selcuk, Izmir, Turkey",
+      "price": "BDT 7,085",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Bera Alanya Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.9\nGood",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 15,352",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Kihaa Maldives",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.2\nVery good",
+      "location": "Kihaadhuffaru, Maldives",
+      "price": "BDT 31,757",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free restaurant",
+        "Indoor pool (private-use, secluded)",
+        "Wellness & Spa (private-use, secluded)"
+      ]
+    }
+  ],
+  "Women-only beaches & pools": [
+    {
+      "title": "Wome Deluxe",
+      "image": "https://cdn.halalstatic.com/2016/12/26/23/06/07/541/50042_jNIqsC7YVOT2rqir4XToHg.jpg?fit=crop&height=500&width=600",
+      "rating": "8.7\nVery good",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 14,368",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Le Vizir Center Park & Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.8\nGood",
+      "location": "Dar Caïd Layadi, Marrakech, Morocco",
+      "price": "BDT 6,889",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Hammam, Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Adenya Hotel & Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.4\nVery good",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 6,692",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Alanya, Antalya, Turkey",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "Wome Prime",
+      "location": "BDT 27,556\nper night\nAll Inclusive\nFree cancellation by 31 Aug",
+      "price": "BDT 27,556",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Altis Resort Hotel & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "6.9",
+      "location": "Belek, Antalya, Turkey",
+      "price": "BDT 12,461",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Sunbathing area (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Selge Beach Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.1\nVery good",
+      "location": "Manavgat, Antalya, Turkey",
+      "price": "BDT 17,714",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Sunbathing area (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "The Oba Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.8\nVery good",
+      "location": "Torba, Bodrum, Turkey",
+      "price": "BDT 33,776",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Cabir Deluxe Hotel Sapanca",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.1\nSuperb",
+      "location": "Sapanca, Turkey",
+      "price": "BDT 10,137",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Oasis Lodges",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.5\nVery good",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 16,927",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Hammam, Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Korel Thermal Resort & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Afyonkarahisar, Turkey",
+      "price": "BDT 9,256",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Hotel Mavi Deniz",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.9\nGood",
+      "location": "Turunc, Marmaris, Turkey",
+      "price": "BDT 7,836",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Modern Saraylar Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.5\nGood",
+      "location": "Alanya, Antalya, Turkey",
+      "price": "BDT 7,618",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Beach (ladies-only, secluded)",
+        "Outdoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Alya Sierra Bodrum Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.1\nVery good",
+      "location": "Torba, Bodrum, Turkey",
+      "price": "BDT 14,148",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Secluded outdoor pool (in all villas)"
+      ]
+    },
+    {
+      "title": "Ottoman's Life Hotel Deluxe",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.0\nSuperb",
+      "location": "Fatih, Istanbul, Turkey",
+      "price": "BDT 10,850",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Rizom Tatil Koyu",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.6\nGood",
+      "location": "Yalova, Turkey",
+      "price": "BDT 6,094",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Grand Akca Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.2\nVery good",
+      "location": "Gazipasa, Antalya, Turkey",
+      "price": "BDT 10,288",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Sauna (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Atlantica Parc Lodge",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.6\nVery good",
+      "location": "Imi Ouaddar, Agadir-Ida Ou Tanane, Morocco",
+      "price": "BDT 7,797",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Hedef Beyt Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.6\nGood",
+      "location": "Ephesus - Selcuk, Izmir, Turkey",
+      "price": "BDT 7,085",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    }
+  ],
+  "Alcohol-free hotels in Dubai": [
+    {
+      "title": "Jannah Place Dubai Marina",
+      "image": "https://cdn.halalstatic.com/2016/11/04/18/06/34/286/44755_Ng0QOenSV5WvQXpJtQnT-Q.jpg?fit=crop&height=500&width=600",
+      "rating": "7.7\nGood",
+      "location": "Dubai Marina, Dubai, UAE",
+      "price": "BDT 7,605",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Studio M Arabian Plaza Hotel & Hotel Apartments",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.6\nVery good",
+      "location": "Deira, Dubai, UAE",
+      "price": "BDT 6,080",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Tamani Marina Hotel and Hotel Apartments",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.0\nVery good",
+      "location": "Dubai, UAE",
+      "price": "BDT 18,161",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Sauna, Steam room (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Ramada Hotel and Suites by Wyndham Dubai JBR",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.8\nGood",
+      "location": "Dubai, UAE",
+      "price": "BDT 12,013",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa centre, Sauna, Steam room, Hot tub/jacuzzi, Fitness (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Swissotel Al Ghurair",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.5\nGood",
+      "location": "Dubai, UAE",
+      "price": "BDT 9,187",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Steam room, Hot tub/jacuzzi (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Coral Dubai Deira Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "83%\nExternal score",
+      "location": "Deira, Dubai, UAE",
+      "price": "BDT 4,963",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa centre, Sauna (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)",
+        "Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "TIME Oak Hotel & Suites",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Dubai, UAE",
+      "price": "BDT 8,646",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa centre, Sauna, Steam room (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "The Retreat Palm Dubai MGallery by Sofitel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Dubai, UAE",
+      "price": "BDT 13,379",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Sauna, Steam room, Hammam, Hot tub/jacuzzi (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Ghaya Grand Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.5\nGood",
+      "location": "Dubai, UAE",
+      "price": "BDT 6,148",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa centre, Sauna, Steam room, Hot tub/jacuzzi (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Flora Creek Deluxe Hotel Apartments",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.7\nSuperb",
+      "location": "Deira, Dubai, UAE",
+      "price": "BDT 14,072",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (ladies-only, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Jannah Marina Hotel Apartments",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.5\nVery good",
+      "location": "Dubai Marina, Dubai, UAE",
+      "price": "BDT 7,538",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Millennium Place Barsha Heights Hotel Apartments",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.0\nGood",
+      "location": "Al Barsha, Dubai, UAE",
+      "price": "BDT 6,980",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa centre, Massage (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear mostly observed)"
+      ]
+    },
+    {
+      "title": "Millennium Place Barsha Heights Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.3\nVery good",
+      "location": "Al Barsha, Dubai, UAE",
+      "price": "BDT 8,221",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Millennium Al Barsha",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.6\nSuperb",
+      "location": "Al Barsha, Dubai, UAE",
+      "price": "BDT 6,670",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Flora Inn Hotel Dubai Airport",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.0\nVery good",
+      "location": "Al Garhoud, Dubai, UAE",
+      "price": "BDT 8,996",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Flora Al Barsha",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.9\nVery good",
+      "location": "Al Barsha, Dubai, UAE",
+      "price": "BDT 8,165",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear mostly observed)"
+      ]
+    },
+    {
+      "title": "Ecos Dubai Hotel at Al Furjan",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "10\nSuperb",
+      "location": "Dubai, UAE",
+      "price": "BDT 6,111",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "dusitD2 kenz Hotel Dubai",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.9\nVery good",
+      "location": "Dubai, UAE",
+      "price": "BDT 7,566",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Sauna, Steam room (ladies-only, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Fraser Suites Dubai",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "10\nSuperb",
+      "location": "Dubai, UAE",
+      "price": "BDT 7,393",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Steam room (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "City Premiere Hotel Apartment",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.5\nGood",
+      "location": "Dubai, UAE",
+      "price": "BDT 16,153",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Sauna, Steam room (private-use, secluded)"
+      ]
+    }
+  ],
+  "Burkini-friendly hotels in Morocco": [
+    {
+      "title": "Le Vizir Center Park & Resort",
+      "image": "https://cdn.halalstatic.com/2016/12/01/15/44/58/207/46222_ief9sWPIOGogX_t1-1jeeg.jpg?fit=crop&height=500&width=600",
+      "rating": "7.8\nGood",
+      "location": "Dar Caïd Layadi, Marrakech, Morocco",
+      "price": "BDT 6,889",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Hammam, Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Atlantica Parc Lodge",
+      "image": "https://cdn.halalstatic.com/2020/01/03/14/43/28/5c412794-3903-4e28-bd4c-b2886c5f5b9c/1455_ydb10HmSKSrS1NABSoLWuA.jpg?fit=crop&height=500&width=600",
+      "rating": "8.6\nVery good",
+      "location": "Imi Ouaddar, Agadir-Ida Ou Tanane, Morocco",
+      "price": "BDT 7,797",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Palm Menara Hotel",
+      "image": "https://cdn.halalstatic.com/2020/01/03/12/58/09/6b94884d-b5cd-4f73-8a97-e4bba1a55645/97236_2j2k0yoCUdwuFQIC2oYrjQ.jpg?fit=crop&height=500&width=600",
+      "rating": "8.5\nVery good",
+      "location": "Medina, Marrakech, Morocco",
+      "price": "BDT 7,035",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Grand Mogador Tanger Sea View & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.0\nVery good",
+      "location": "Malabata, Tangier, Morocco",
+      "price": "BDT 10,713",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Sauna, Steam room, Hammam, Hot tub/jacuzzi, Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Iberostar Founty Beach",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.0\nSuperb",
+      "location": "Agadir, Morocco",
+      "price": "BDT 25,337",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Indoor pool (private-use, secluded)",
+        "Spa treatment room(s) (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Riad Omri",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "96%\nExternal score",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 12,975",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Hammam (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Palais Claudio Bravo",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "100%\nExternal score",
+      "location": "Taroudannt, Morocco",
+      "price": "BDT 9,435",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Residence Yasmina",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "80%\nExternal score",
+      "location": "Agadir, Morocco",
+      "price": "BDT 6,056",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free property",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Riad Maison Arabo Andalouse",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.8\nSuperb",
+      "location": "Kasbah, Marrakech, Morocco",
+      "price": "BDT 10,727",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Labranda Rose Aqua Parc",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.4\nVery good",
+      "location": "Hivernage, Marrakech, Morocco",
+      "price": "BDT 9,743",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Sauna, Hammam, Massage (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Hotel Timoulay & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.8\nVery good",
+      "location": "Agadir, Morocco",
+      "price": "BDT 9,349",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Sauna, Steam room, Hammam, Hot tub/jacuzzi, Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "L'Oriental Medina & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.1\nSuperb",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 5,795",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Hammam, Spa treatment room(s) (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Radisson Blu Hotel, Casablanca City Center",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.1\nSuperb",
+      "location": "Casablanca, Morocco",
+      "price": "BDT 11,375",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Sauna, Spa treatment room(s) (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Hôtel & Ryads Barrière Le Naoura",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.3\nSuperb",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 19,285",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Sauna, Hammam, Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Maison D'hôtes Darsor",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "10\nSuperb",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 17,517",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Hammam, Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Angsana Riads Collection Morroco",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "10\nSuperb",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 9,358",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Spa centre, Steam room, Hammam, Spa treatment room(s) (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Mazagan Beach & Golf Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.8\nGood",
+      "location": "Haouzia, Morocco",
+      "price": "BDT 23,735",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Hammam, Spa treatment room(s) (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Aqua Mirage Club & Aqua Parc - All Inclusive",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.2\nVery good",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 20,758",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Hammam, Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Adam Park Hotel & Spa Marrakech",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.8\nSuperb",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 14,254",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Sauna, Hammam, Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Ayoub Hotel & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.0\nVery good",
+      "location": "Marrakech, Morocco",
+      "price": "BDT 6,586",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Sauna, Hammam, Spa treatment room(s), Massage (private-use, secluded)"
+      ]
+    }
+  ],
+  "Halal-friendly wellness and thermal hotels in Turkey": [
+    {
+      "title": "Cabir Deluxe Hotel Sapanca",
+      "image": "https://cdn.halalstatic.com/2021/06/29/08/13/27/a32c0ff1-8fd1-4fe9-bc1b-49a5466803f2/99060_bORvDKAJ8_JiFTFml2AGZA.jpg?fit=crop&height=500&width=600",
+      "rating": "9.1\nSuperb",
+      "location": "Sapanca, Turkey",
+      "price": "BDT 10,137",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Korel Thermal Resort & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.7\nVery good",
+      "location": "Afyonkarahisar, Turkey",
+      "price": "BDT 9,256",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Istanbul Medikal Termal Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.7\nGood",
+      "location": "Tuzla, Istanbul, Turkey",
+      "price": "BDT 6,615",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Hancioglu Orman Evleri (Bungalow) & Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.9\nVery good",
+      "location": "Trabzon, Turkey",
+      "price": "BDT 10,186",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Wellness & Spa (private-use, secluded)",
+        "Beach (mixed-gender, modest swimwear allowed)",
+        "Sauna, Hammam (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "İlica Hotel Spa & Wellness Thermal Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.4\nVery good",
+      "location": "Cesme, Turkey",
+      "price": "BDT 35,223",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Hammam, Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Fimar Life Thermal Resort Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.0\nSuperb",
+      "location": "Göynücek, Turkey",
+      "price": "BDT 9,828",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Lova Hotel & Spa Yalova",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.3\nVery good",
+      "location": "Yalova, Turkey",
+      "price": "BDT 3,746",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Cam Thermal Hotel & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.5\nVery good",
+      "location": "Kizilcahamam, Ankara, Turkey",
+      "price": "BDT 7,999",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Basaranlar Thermal",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.9\nVery good",
+      "location": "Afyonkarahisar, Turkey",
+      "price": "BDT 4,897",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Aforia Thermal Residences",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.2\nSuperb",
+      "location": "Afyonkarahisar, Turkey",
+      "price": "BDT 4,527",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Secluded indoor pool (in all rooms)",
+        "Secluded hot tub/jacuzzi (in all rooms)",
+        "Hammam (in all rooms)"
+      ]
+    },
+    {
+      "title": "Dundar Thermal Villa Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.0\nVery good",
+      "location": "Afyonkarahisar, Turkey",
+      "price": "BDT 7,873",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Secluded indoor pool (in some rooms)",
+        "Hammam (in all rooms)"
+      ]
+    },
+    {
+      "title": "Fatsa Thermal & Spa Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.5\nVery good",
+      "location": "Ordu, Turkey",
+      "price": "BDT 3,114",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Esila Thermal Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.3\nGood",
+      "location": "Yalova, Turkey",
+      "price": "BDT 7,618",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Eliz Thermal & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.1\nVery good",
+      "location": "Kizilcahamam, Ankara, Turkey",
+      "price": "BDT 11,972",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Obam Thermal Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.2\nVery good",
+      "location": "Balikesir, Turkey",
+      "price": "BDT 5,441",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Outdoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Black Bird Thermal Hotel & Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.1\nVery good",
+      "location": "Yalova, Turkey",
+      "price": "BDT 6,802",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free room",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    },
+    {
+      "title": "Zir Dream Thermal Hotel & SPA",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.1\nGood",
+      "location": "Yalova, Turkey",
+      "price": "BDT 5,066",
+      "price_type": "per night",
+      "features": [
+        "All halal food",
+        "Alcohol-free property",
+        "Indoor pool (ladies-only, secluded)",
+        "Wellness & Spa (ladies-only, secluded)"
+      ]
+    }
+  ],
+  "London": [
+    {
+      "title": "The Landmark London",
+      "image": "https://cdn.halalstatic.com/2020/08/19/18/54/07/7ce55cca-fed4-4e78-8a08-efbd5537cca0/21291_bCbN-SElyO91L6hkrQLQCA.jpg?fit=crop&height=500&width=600",
+      "rating": "8.3\nVery good",
+      "location": "Westminster, London, United Kingdom",
+      "price": "BDT 49,959",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "St. James' Court, A Taj Hotel, London",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.9\nGood",
+      "location": "London, United Kingdom",
+      "price": "BDT 35,388",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "The Westbridge Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.2\nSuperb",
+      "location": "Newham, London, United Kingdom",
+      "price": "BDT 18,512",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Shangri-La The Shard, London",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.6\nVery good",
+      "location": "Southwark, London, United Kingdom",
+      "price": "BDT 74,216",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "London Marriott Hotel County Hall",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.6\nVery good",
+      "location": "London, United Kingdom",
+      "price": "BDT 48,571",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Holiday Inn London - Whitechapel, an IHG Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.4\nSuperb",
+      "location": "London, United Kingdom",
+      "price": "BDT 12,489",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "London Hilton on Park Lane",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.8\nGood",
+      "location": "London, United Kingdom",
+      "price": "BDT 46,146",
+      "price_type": "per night",
+      "features": ["Some halal food", "Alcohol-free room"]
+    },
+    {
+      "title": "ibis London Shepherds Bush – Hammersmith",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "10\nSuperb",
+      "location": "London, United Kingdom",
+      "price": "BDT 15,497",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Montcalm Royal London House - City Of London",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 24,215",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "New Road Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Tower Hamlets, London, United Kingdom",
+      "price": "BDT 19,576",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free room"]
+    },
+    {
+      "title": "The Montcalm London Marble Arch",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 30,392",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Mandarin Oriental Hyde Park, London",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 126,055",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Spa centre, Steam room, Hot tub/jacuzzi (ladies-only, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "W London",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 58,488",
+      "price_type": "per night",
+      "features": ["Some halal food", "Alcohol-free room"]
+    },
+    {
+      "title": "London Marriott Hotel Grosvenor Square",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 56,343",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Sheraton Grand London Park Lane",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 45,242",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "London Marriott Hotel Marble Arch",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 39,690",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Kimpton Fitzroy London, an IHG Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 36,371",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Park Plaza Westminster Bridge London",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 28,518",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "The May Fair, A Radisson Collection Hotel, Mayfair London",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 47,773",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Conrad London St. James",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "London, United Kingdom",
+      "price": "BDT 39,434",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    }
+  ],
+  "Edinburgh": [
+    {
+      "title": "Novotel Edinburgh Park",
+      "image": "https://cdn.halalstatic.com/expedia/2000000/1790000/1781400/1781324/1e217ea6_z.jpg?fit=crop&height=500&width=600",
+      "rating": "8.5\nVery good",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 18,966",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Hilton Edinburgh Carlton",
+      "image": "https://cdn.halalstatic.com/expedia/1000000/10000/1700/1648/25d8dd83_z.jpg?fit=crop&height=500&width=600",
+      "rating": "8.9\nVery good",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 29,604",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Apex Waterloo Place Hotel",
+      "image": "https://cdn.halalstatic.com/expedia/3000000/2280000/2278100/2278092/714a675b_z.jpg?fit=crop&height=500&width=600",
+      "rating": "90%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 28,796",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Apex City of Edinburgh Hotel",
+      "image": "https://cdn.halalstatic.com/expedia/1000000/810000/801000/800968/15fcc8cf_z.jpg?fit=crop&height=500&width=600",
+      "rating": "88%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 21,857",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Apex Grassmarket Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 26,251",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Market Street Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 29,767",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "The Scotsman Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 22,356",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Sheraton Grand Hotel & Spa, Edinburgh",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 36,696",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Kimpton Charlotte Square Hotel, an IHG Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 37,366",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (private-use, secluded)",
+        "Sauna, Spa treatment room(s) (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "InterContinental Edinburgh The George, an IHG Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 32,340",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Ten Hill Place",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 22,795",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Novotel Edinburgh Centre",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 24,458",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "DoubleTree by Hilton Edinburgh City Centre",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 33,075",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Waldorf Astoria Edinburgh - The Caledonian",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 45,447",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Hampton by Hilton Edinburgh Airport",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Newbridge, United Kingdom",
+      "price": "BDT 20,469",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Capital House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 8,018",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Cityroomz Edinburgh",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.9\nVery good",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 17,236",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free property"]
+    },
+    {
+      "title": "Point A Hotel Edinburgh Haymarket",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.1\nSuperb",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 20,816",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Courtyard by Marriott Edinburgh",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.4\nSuperb",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 20,702",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Mercure Edinburgh Haymarket",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.4\nSuperb",
+      "location": "Edinburgh, United Kingdom",
+      "price": "BDT 25,327",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    }
+  ],
+  "Glasgow": [
+    {
+      "title": "Carlton George Hotel",
+      "image": "https://cdn.halalstatic.com/expedia/1000000/580000/574500/574405/d914343f_z.jpg?fit=crop&height=500&width=600",
+      "rating": "90%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 13,530",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Smiths Hotel",
+      "image": "https://cdn.halalstatic.com/expedia/9000000/8810000/8802800/8802719/313a98a6_z.jpg?fit=crop&height=500&width=600",
+      "rating": "60%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 12,952",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Holiday Inn Glasgow City Centre Theatreland, an IHG Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 13,528",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Radisson Blu Hotel, Glasgow",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 14,340",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Kimpton Blythswood Square Hotel, an IHG Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 25,916",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Crowne Plaza Hotel Glasgow, an IHG Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 16,612",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Alamo Guest House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "96%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 23,435",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Novotel Glasgow Centre",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 12,906",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Hilton Garden Inn Glasgow City Centre",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 28,449",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Jurys Inn Glasgow",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.5\nGood",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 11,969",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Bemersyde Villa/Studios",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "74%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 8,644",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free property"]
+    },
+    {
+      "title": "Charing Cross Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "68%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 31,224",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "Crosshill House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 17,000",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free property"]
+    },
+    {
+      "title": "Merchant City Inn",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "66%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 31,120",
+      "price_type": "per night",
+      "features": ["Alcohol-free property"]
+    },
+    {
+      "title": "Sandyford Lodge",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 9,830",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Argyll Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 9,251",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Glynhill Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Renfrew, United Kingdom",
+      "price": "BDT 9,338",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Clifton Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "76%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 6,476",
+      "price_type": "per night",
+      "features": ["Alcohol-free property"]
+    },
+    {
+      "title": "Apex City of Glasgow Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 14,224",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Point A Hotel Glasgow",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Glasgow, United Kingdom",
+      "price": "BDT 9,136",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free property"]
+    }
+  ],
+  "Snowdonia National Park": [
+    {
+      "title": "Barmouth, United Kingdom",
+      "image": "https://cdn.halalstatic.com/2020/09/15/16/08/22/da4d5e86-36cf-48ae-b258-a5407d8149eb/31067_vc3Y3LIDAozlPbJ20s5aFQ.jpg?fit=crop&height=500&width=600",
+      "rating": "Beautiful Wales",
+      "location": "BDT 52,399\nper night\nSelf-catering\nNon-refundable",
+      "price": "BDT 52,399",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Princetown Guesthouse",
+      "image": "https://cdn.halalstatic.com/expedia/37000000/36170000/36166600/36166571/8150470c_z.jpg?fit=crop&height=500&width=600",
+      "rating": "94%\nExternal score",
+      "location": "Bangor, United Kingdom",
+      "price": "BDT 10,176",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Headlands Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Llandudno, United Kingdom",
+      "price": "BDT 13,843",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Ramada Plaza by WyndhamWrexham",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Wrexham, United Kingdom",
+      "price": "BDT 10,639",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Four Saints Brig Y Don Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "80%\nExternal score",
+      "location": "Llandudno, United Kingdom",
+      "price": "BDT 14,566",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Prestatyn Sands Holiday Park",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "48%\nExternal score",
+      "location": "Prestatyn, United Kingdom",
+      "price": "BDT 6,887",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Tir-y-Coed Country House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "96%\nExternal score",
+      "location": "Conwy, United Kingdom",
+      "price": "BDT 17,672",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Whitehouse Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "62%\nExternal score",
+      "location": "Llandudno, United Kingdom",
+      "price": "BDT 9,136",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Grand Hotel Llandudno",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "62%\nExternal score",
+      "location": "Llandudno, United Kingdom",
+      "price": "BDT 9,136",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Clandeboye Lodge Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Bangor, United Kingdom",
+      "price": "BDT 19,082",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Shelleven House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "96%\nExternal score",
+      "location": "Bangor, United Kingdom",
+      "price": "BDT 12,141",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Rossett Hall Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Wrexham, United Kingdom",
+      "price": "BDT 9,148",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Karden House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Llandudno, United Kingdom",
+      "price": "BDT 8,112",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "George Borrow Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Aberystwyth, United Kingdom",
+      "price": "BDT 10,408",
+      "price_type": "per night",
+      "features": ["Alcohol-free room"]
+    },
+    {
+      "title": "Hilton Garden Inn Snowdonia",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Conwy, United Kingdom",
+      "price": "BDT 19,197",
+      "price_type": "per night",
+      "features": ["Alcohol-free room"]
+    },
+    {
+      "title": "The Oasis",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "Llandudno, United Kingdom",
+      "price": "BDT 9,668",
+      "price_type": "per night",
+      "features": ["Alcohol-free property"]
+    },
+    {
+      "title": "The Central Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "78%\nExternal score",
+      "location": "Llandudno, United Kingdom",
+      "price": "BDT 12,144",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "Plas Dinas Country House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "96%\nExternal score",
+      "location": "Caernarfon, United Kingdom",
+      "price": "BDT 26,534",
+      "price_type": "per night",
+      "features": []
+    }
+  ],
+  "Blackpool": [
+    {
+      "title": "The Grand Hotel Blackpool",
+      "image": "https://cdn.halalstatic.com/expedia/1000000/440000/436300/436227/e111eacb_z.jpg?fit=crop&height=500&width=600",
+      "rating": "68%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 9,508",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Olive Lodge Blackpool",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "78%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 10,213",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "The Imperial Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "80%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 10,321",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Lynbar Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 7,518",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Ruskin Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 8,511",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Reads Court Holiday Apartments",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 28,967",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Harlands Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "66%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 20,816",
+      "price_type": "per night",
+      "features": ["All halal food"]
+    },
+    {
+      "title": "Kenley Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "100%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 10,408",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Bromley Central Holiday Home",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "100%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 48,109",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Blackpool, United Kingdom",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "Raikes Parade Victorian Home",
+      "location": "BDT 31,110\nper night\nSelf-catering\nFree cancellation by 26 Dec",
+      "price": "BDT 31,110",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Danescourt Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 7,979",
+      "price_type": "per night",
+      "features": ["Halal food nearby"]
+    },
+    {
+      "title": "Daish’s Blackpool Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.9\nVery good",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 29,027",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Queens Plaza Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 9,830",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "DJ Suites Blackpool",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "78%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 6,805",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Blackpool Football Club Stadium Hotel, a member of Radisson Individuals",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 10,200",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Hotel Avano- Pleasure Beach",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "40%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 5,782",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "The Oak Lea Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "74%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 7,515",
+      "price_type": "per night",
+      "features": ["All halal food", "Alcohol-free property"]
+    },
+    {
+      "title": "The Melville Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "64%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 16,768",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Alumhurst Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "64%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 6,938",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "The Maples Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Blackpool, United Kingdom",
+      "price": "BDT 9,251",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    }
+  ],
+  "Isle of Wight": [
+    {
+      "title": "The Wight",
+      "image": "https://cdn.halalstatic.com/expedia/9000000/8780000/8777600/8777537/e211fa05_z.jpg?fit=crop&height=500&width=600",
+      "rating": "78%\nExternal score",
+      "location": "Sandown, United Kingdom",
+      "price": "BDT 14,173",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "The Cliff Hall",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 13,415",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Somerton Lodge Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 9,923",
+      "price_type": "per night",
+      "features": ["Alcohol-free property"]
+    },
+    {
+      "title": "The Kenbury",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "98%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 12,144",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "The Fernside",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Sandown, United Kingdom",
+      "price": "BDT 11,564",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "The Swiss Cottage, Shanklin",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 11,564",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Gracellie Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "68%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 9,252",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "Langham Court",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "68%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 9,828",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "The Retreat Manor Spa Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "74%\nExternal score",
+      "location": "Sandown, United Kingdom",
+      "price": "BDT 14,455",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "Royal Esplanade Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "80%\nExternal score",
+      "location": "Ryde, United Kingdom",
+      "price": "BDT 9,575",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "Medehamstede Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "72%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 10,408",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "Luccombe Hall Country House Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 22,452",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "Inglewood Guesthouse",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "Sandown, United Kingdom",
+      "price": "BDT 10,176",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "Luccombe Manor Country House Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 9,251",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "OYO Shanklin Beach Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "60%\nExternal score",
+      "location": "Shanklin, United Kingdom",
+      "price": "BDT 7,595",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "OYO Marina",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "66%\nExternal score",
+      "location": "Sandown, United Kingdom",
+      "price": "BDT 9,055",
+      "price_type": "per night",
+      "features": []
+    },
+    {
+      "title": "Kingsmede Bed & Breakfast",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "98%\nExternal score",
+      "location": "Ventnor, United Kingdom",
+      "price": "BDT 10,116",
+      "price_type": "per night",
+      "features": []
+    }
+  ],
+  "South Wales": [
+    {
+      "title": "Parkway Hotel & Spa",
+      "image": "https://cdn.halalstatic.com/expedia/1000000/20000/10800/10704/8139cb97_z.jpg?fit=crop&height=500&width=600",
+      "rating": "10\nSuperb",
+      "location": "Cwmbran, United Kingdom",
+      "price": "BDT 16,190",
+      "price_type": "per night",
+      "features": [
+        "Alcohol-free room",
+        "Spa treatment room(s) (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "St Pierre Marriott Hotel & Country Club",
+      "image": "https://cdn.halalstatic.com/expedia/1000000/70000/65900/65879/1463e0d3_z.jpg?fit=crop&height=500&width=600",
+      "rating": "7.5\nGood",
+      "location": "Chepstow, United Kingdom",
+      "price": "BDT 14,457",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Spa treatment room(s) (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Stradey Park Hotel",
+      "image": "https://cdn.halalstatic.com/expedia/1000000/10000/6500/6487/cf633f86_z.jpg?fit=crop&height=500&width=600",
+      "rating": "10\nSuperb",
+      "location": "Llanelli, United Kingdom",
+      "price": "BDT 12,109",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)"
+      ]
+    },
+    {
+      "title": "Hilton Cardiff",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.3\nVery good",
+      "location": "Cardiff, United Kingdom",
+      "price": "BDT 13,182",
+      "price_type": "per night",
+      "features": ["Some halal food", "Alcohol-free room"]
+    },
+    {
+      "title": "Cardiff Marriott Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Cardiff, United Kingdom",
+      "price": "BDT 11,681",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Hotel Indigo Cardiff, an IHG Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Cardiff, United Kingdom",
+      "price": "BDT 14,571",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Holiday Inn Cardiff - North M4, an IHG Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "76%\nExternal score",
+      "location": "Cardiff, United Kingdom",
+      "price": "BDT 9,887",
+      "price_type": "per night",
+      "features": [
+        "Alcohol-free room",
+        "Spa treatment room(s) (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Somerville House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "96%\nExternal score",
+      "location": "Hereford, United Kingdom",
+      "price": "BDT 11,450",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Novotel Cardiff Centre",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Cardiff, United Kingdom",
+      "price": "BDT 13,183",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Austins Self Service Guest House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Cardiff, United Kingdom",
+      "price": "BDT 8,014",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free property"]
+    },
+    {
+      "title": "Raglan Lodge",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "80%\nExternal score",
+      "location": "Usk, United Kingdom",
+      "price": "BDT 4,624",
+      "price_type": "per night",
+      "features": ["Alcohol-free room"]
+    },
+    {
+      "title": "Ewenny Farm Guesthouse",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Bridgend, United Kingdom",
+      "price": "BDT 9,830",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free property"]
+    },
+    {
+      "title": "Lincoln House Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "Cardiff, United Kingdom",
+      "price": "BDT 14,455",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Hammonds Park Guest House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "78%\nExternal score",
+      "location": "Tenby, United Kingdom",
+      "price": "BDT 7,517",
+      "price_type": "per night",
+      "features": ["Alcohol-free property"]
+    },
+    {
+      "title": "The Coach House at Gileston Manor",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "100%\nExternal score",
+      "location": "Barry, United Kingdom",
+      "price": "BDT 48,859",
+      "price_type": "per night",
+      "features": ["Alcohol-free property"]
+    },
+    {
+      "title": "Canaston Oaks",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "98%\nExternal score",
+      "location": "Narberth, United Kingdom",
+      "price": "BDT 21,047",
+      "price_type": "per night",
+      "features": ["Secluded hot tub/jacuzzi (in some rooms)"]
+    },
+    {
+      "title": "New House Country Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Cardiff, United Kingdom",
+      "price": "BDT 13,659",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Charades Guest House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "98%\nExternal score",
+      "location": "Hereford, United Kingdom",
+      "price": "BDT 10,987",
+      "price_type": "per night",
+      "features": ["Alcohol-free property"]
+    },
+    {
+      "title": "ibis budget Cardiff Centre",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "76%\nExternal score",
+      "location": "Cardiff, United Kingdom",
+      "price": "BDT 7,054",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    }
+  ],
+  "Highlands": [
+    {
+      "title": "Isles Of Glencoe Hotel",
+      "image": "https://cdn.halalstatic.com/2020/05/01/12/06/11/fd554e8a-e0d8-4019-a14d-67adefb05387/34192_ZoeRmYsv0R0E6T01ET_x_Q.jpg?fit=crop&height=500&width=600",
+      "rating": "9.4\nSuperb",
+      "location": "Ballachulish, United Kingdom",
+      "price": "BDT 28,911",
+      "price_type": "per night",
+      "features": [
+        "Some halal food",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Cruachan Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.8\nGood",
+      "location": "Fort William, United Kingdom",
+      "price": "BDT 16,768",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Craigmonie Hotel Inverness by Compass Hospitality",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Inverness, United Kingdom",
+      "price": "BDT 19,765",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Spa treatment room(s) (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Crown Hotel Guesthouse",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "76%\nExternal score",
+      "location": "Inverness, United Kingdom",
+      "price": "BDT 5,782",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Inverlochy Castle",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Fort William, United Kingdom",
+      "price": "BDT 80,374",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Loch Ness Country House Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Inverness, United Kingdom",
+      "price": "BDT 35,271",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Culloden House Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "96%\nExternal score",
+      "location": "Inverness, United Kingdom",
+      "price": "BDT 40,476",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "The Inch Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "88%\nExternal score",
+      "location": "Fort Augustus, United Kingdom",
+      "price": "BDT 17,925",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Loch Ness Clansman Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "74%\nExternal score",
+      "location": "Inverness, United Kingdom",
+      "price": "BDT 25,558",
+      "price_type": "per night",
+      "features": ["Some halal food", "Alcohol-free room"]
+    },
+    {
+      "title": "The Glen Mhor Apartments",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "74%\nExternal score",
+      "location": "Inverness, United Kingdom",
+      "price": "BDT 13,555",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Muthu Fort William Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "66%\nExternal score",
+      "location": "Fort William, United Kingdom",
+      "price": "BDT 20,816",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Loch Leven Hotel & Distillery",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Fort William, United Kingdom",
+      "price": "BDT 27,477",
+      "price_type": "per night",
+      "features": ["Alcohol-free room"]
+    },
+    {
+      "title": "Altnaharra B&B",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "96%\nExternal score",
+      "location": "Lairg, United Kingdom",
+      "price": "BDT 8,442",
+      "price_type": "per night",
+      "features": ["Alcohol-free room"]
+    },
+    {
+      "title": "North Coast 500 Pods",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "Lairg, United Kingdom",
+      "price": "BDT 22,481",
+      "price_type": "per night",
+      "features": ["Alcohol-free room"]
+    },
+    {
+      "title": "Glengarry Castle Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "96%\nExternal score",
+      "location": "Invergarry, United Kingdom",
+      "price": "BDT 26,598",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "The Portland Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Lybster, United Kingdom",
+      "price": "BDT 13,092",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Duisdale House Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Isle of Skye, United Kingdom",
+      "price": "BDT 45,692",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "The Whispering Pine Lodge",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Spean Bridge, United Kingdom",
+      "price": "BDT 33,769",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Torridon Estate",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Achnasheen, United Kingdom",
+      "price": "BDT 20,816",
+      "price_type": "per night",
+      "features": [
+        "Alcohol-free room",
+        "Beach (mixed-gender, modest swimwear allowed)"
+      ]
+    }
+  ],
+  "Lake District": [
+    {
+      "title": "Beech Hill Hotel & Spa",
+      "image": "https://cdn.halalstatic.com/expedia/1000000/10000/6000/5965/ac60b4f1_z.jpg?fit=crop&height=500&width=600",
+      "rating": "9.5\nSuperb",
+      "location": "Windermere, United Kingdom",
+      "price": "BDT 18,619",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Castle Green Hotel In Kendal, BW Premier Collection",
+      "image": "https://cdn.halalstatic.com/expedia/1000000/380000/372900/372889/9210e875_z.jpg?fit=crop&height=500&width=600",
+      "rating": "8.0\nVery good",
+      "location": "Kendal, United Kingdom",
+      "price": "BDT 14,155",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Lakes Hotel and Spa",
+      "image": "https://cdn.halalstatic.com/2020/09/21/18/19/51/629b2afb-37fb-4cb7-8e09-316f19e31e05/30377_cuLtfrS8Cv2sgAd3-bIYTw.jpg?fit=crop&height=500&width=600",
+      "rating": "86%\nExternal score",
+      "location": "Windermere, United Kingdom",
+      "price": "BDT 21,857",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "The Wordsworth Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Ambleside, United Kingdom",
+      "price": "BDT 19,775",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Keswick Park Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Keswick, United Kingdom",
+      "price": "BDT 14,894",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Secluded hot tub/jacuzzi (in some rooms)"
+      ]
+    },
+    {
+      "title": "St John's Lodge",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "98%\nExternal score",
+      "location": "Windermere, United Kingdom",
+      "price": "BDT 22,137",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "The Halston",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Carlisle, United Kingdom",
+      "price": "BDT 17,557",
+      "price_type": "per night",
+      "features": ["Some halal food"]
+    },
+    {
+      "title": "Ambleside Salutation Hotel & Spa, BW Premier Collection",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "92%\nExternal score",
+      "location": "Ambleside, United Kingdom",
+      "price": "BDT 16,236",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Brathay Lodge",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Ambleside, United Kingdom",
+      "price": "BDT 16,190",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free property",
+        "any secluded wellness or spa facility (ladies privacy)"
+      ]
+    },
+    {
+      "title": "Roundthorn Country House and Luxury Apartments",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Penrith, United Kingdom",
+      "price": "BDT 17,347",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Wateredge Inn",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Ambleside, United Kingdom",
+      "price": "BDT 24,898",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Cragwood Country House Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Windermere, United Kingdom",
+      "price": "BDT 17,231",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Borrowdale Gates Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Keswick, United Kingdom",
+      "price": "BDT 27,374",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Linthwaite House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Windermere, United Kingdom",
+      "price": "BDT 29,901",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Stonecross Manor Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Kendal, United Kingdom",
+      "price": "BDT 16,653",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Glaramara",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Keswick, United Kingdom",
+      "price": "BDT 17,859",
+      "price_type": "per night",
+      "features": ["Alcohol-free room"]
+    },
+    {
+      "title": "Rothay Manor Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Ambleside, United Kingdom",
+      "price": "BDT 51,810",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "Castle Inn Hotel, BW Signature Collection",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "80%\nExternal score",
+      "location": "Keswick, United Kingdom",
+      "price": "BDT 11,009",
+      "price_type": "per night",
+      "features": [
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Ravenstone Manor",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Keswick, United Kingdom",
+      "price": "BDT 15,496",
+      "price_type": "per night",
+      "features": ["Alcohol-free room"]
+    },
+    {
+      "title": "Bowness Guest House",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "94%\nExternal score",
+      "location": "Windermere, United Kingdom",
+      "price": "BDT 10,638",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free property"]
+    }
+  ],
+  "Cornwall": [
+    {
+      "title": "St. Mellion Estate",
+      "image": "https://cdn.halalstatic.com/expedia/3000000/2840000/2836400/2836321/46e03077_z.jpg?fit=crop&height=500&width=600",
+      "rating": "7.5\nGood",
+      "location": "Saltash, United Kingdom",
+      "price": "BDT 11,794",
+      "price_type": "per night",
+      "features": [
+        "Alcohol-free room",
+        "Spa treatment room(s) (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Best Western Hotel Bristol",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "7.8\nGood",
+      "location": "Newquay, United Kingdom",
+      "price": "BDT 17,591",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "The St Ives Bay Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "60%\nExternal score",
+      "location": "St Ives, United Kingdom",
+      "price": "BDT 15,630",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "The Royal Duchy Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Falmouth, United Kingdom",
+      "price": "BDT 26,367",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free property",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "The Falmouth Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "78%\nExternal score",
+      "location": "Falmouth, United Kingdom",
+      "price": "BDT 28,229",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "The Headland Hotel and Spa",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Newquay, United Kingdom",
+      "price": "BDT 24,608",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Spa treatment room(s), Massage (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "St Ives Harbour Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "St Ives, United Kingdom",
+      "price": "BDT 31,363",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Massage (private-use, secluded)",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Greenbank Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "Falmouth, United Kingdom",
+      "price": "BDT 23,880",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "St Michael's Resort",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "86%\nExternal score",
+      "location": "Falmouth, United Kingdom",
+      "price": "BDT 15,381",
+      "price_type": "per night",
+      "features": ["Halal food on request", "Alcohol-free room"]
+    },
+    {
+      "title": "Great Western Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "78%\nExternal score",
+      "location": "Newquay, United Kingdom",
+      "price": "BDT 15,612",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "Carlyon Bay Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "90%\nExternal score",
+      "location": "St Austell, United Kingdom",
+      "price": "BDT 45,998",
+      "price_type": "per night",
+      "features": [
+        "Halal food on request",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Porth Veor Manor, Sure Hotel Collection by Best Western",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "84%\nExternal score",
+      "location": "Newquay, United Kingdom",
+      "price": "BDT 19,082",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Outdoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Penmere Manor Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "82%\nExternal score",
+      "location": "Falmouth, United Kingdom",
+      "price": "BDT 20,353",
+      "price_type": "per night",
+      "features": [
+        "Halal food nearby",
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Kilbirnie Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "78%\nExternal score",
+      "location": "Newquay, United Kingdom",
+      "price": "BDT 15,034",
+      "price_type": "per night",
+      "features": ["Halal food on request"]
+    },
+    {
+      "title": "China Fleet Country Club",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "8.5\nVery good",
+      "location": "Saltash, United Kingdom",
+      "price": "BDT 21,423",
+      "price_type": "per night",
+      "features": [
+        "Alcohol-free room",
+        "Indoor pool (mixed-gender, modest swimwear allowed)"
+      ]
+    },
+    {
+      "title": "Lugo Rock",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "9.7\nSuperb",
+      "location": "Falmouth, United Kingdom",
+      "price": "BDT 10,304",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    },
+    {
+      "title": "The Queens Hotel",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "rating": "80%\nExternal score",
+      "location": "Penzance, United Kingdom",
+      "price": "BDT 24,285",
+      "price_type": "per night",
+      "features": ["Halal food nearby", "Alcohol-free room"]
+    }
+  ]
+}
