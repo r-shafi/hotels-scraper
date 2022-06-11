@@ -22,7 +22,7 @@ async function categoryScraper(url) {
     )
   );
 
-  browser.close();
+  await browser.close();
 
   console.log('FINISHED CATEGORY SCRAPING');
 
