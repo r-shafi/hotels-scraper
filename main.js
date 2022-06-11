@@ -1,29 +1,29 @@
-const pptr = require('puppeteer');
+const wait = require('wait');
+const fs = require('fs');
 const { categoryScraper } = require('./utils/categories');
 const { hotelScraper } = require('./utils/hotels');
 
 async function main() {
   const categories = await categoryScraper('https://en.halalbooking.com/');
-  const h = await hotelScraper(categories[0].link);
+  const hotels = {};
 
-  console.log(h);
+  for (const category of categories) {
+    await wait(500);
+    hotels[category.title] = await hotelScraper(category.link);
+  }
+
+  fs.writeFile(
+    'hotels.json',
+    JSON.stringify(hotels, null, 2),
+    'utf-8',
+    (err) => {
+      if (err) {
+        console.log(err);
+      } else {
+        console.log('Data Exported');
+      }
+    }
+  );
 }
 
 main();
-
-// await page.goto('https://en.halalbooking.com/fl/181');
-
-//   const hotels = await page.evaluate(() =>
-//     Array.from(document.querySelectorAll('.search-i-content'), (hotel) => ({
-//       name: hotel.querySelector('.search-i-title').innerText,
-//       image: hotel.previousElementSibling.querySelector('img').src,
-//       rating: hotel.querySelector(
-//         '.aggregate-score--val.property-score.property-score_m.search-i--score'
-//       ).innerText,
-//       location: hotel.querySelector('.search-i-location').innerText,
-//       price: hotel.querySelector('.rateplan--price--value').innerText,
-//       price_type: hotel.querySelector('.rateplan--price--notes').innerText,
-//     }))
-//   );
-
-//   console.log(hotels);
