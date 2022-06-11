@@ -29,7 +29,7 @@ async function hotelScraper(url) {
     }))
   );
 
-  browser.close();
+  await browser.close();
 
   console.log('FINISHED HOTEL SCRAPING');
 
